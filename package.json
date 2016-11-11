@@ -1,0 +1,24 @@
+{
+  "name": "node_content_scraper",
+  "version": "1.0.0",
+  "description": "To scrap the Mike T shirt company",
+  "main": "scraper.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "csv-write-stream": "^2.0.0",
+    "moment": "^2.16.0",
+    "request": "^2.78.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Tshirts",
+    "price",
+    "csv",
+    "data"
+  ],
+  "author": "Andy Tan",
+  "license": "MIT"
+}
